@@ -182,5 +182,4 @@ Abrir Pull Request describiendo qué se automatizó y por qué.
 ---
 
 ## Licencia
-
 Proyecto desarrollado como evaluación técnica de QA para Envíoclick. Uso educativo.
