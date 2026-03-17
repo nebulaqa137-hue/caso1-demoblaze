@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Proyecto de automatización de pruebas UI para el sitio [Demoblaze Store](https://www.demoblaze.com), desarrollado como parte del caso práctico de QA para Envíoclick.
+Proyecto de automatización de pruebas UI para el sitio [Demoblaze Store](https://www.demoblaze.com), 
 
 Cubre los flujos principales de la tienda: autenticación de usuarios, gestión del carrito de compras y proceso de compra completo. La arquitectura está basada en Page Object Model con Page Factory y BDD usando Gherkin con Cucumber.
 
