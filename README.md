@@ -41,11 +41,11 @@ mvn clean test
 Ejecutar por etiquetas:
 
 ```bash
-mvn clean test -Dcucumber.filter.tags="@smoke"
-mvn clean test -Dcucumber.filter.tags="@regression"
-mvn clean test -Dcucumber.filter.tags="@login"
-mvn clean test -Dcucumber.filter.tags="@carrito"
-mvn clean test -Dcucumber.filter.tags="@e2e"
+mvn clean test "-Dcucumber.filter.tags=@smoke"
+mvn clean test "-Dcucumber.filter.tags=@regression"
+mvn clean test "-Dcucumber.filter.tags=@login"
+  mvn clean test "-Dcucumber.filter.tags=@carrito"
+mvn clean test "-Dcucumber.filter.tags=@e2e"
 ```
 
 Desde Eclipse: click derecho en `testng.xml` → Run As → TestNG Suite.
